@@ -15,4 +15,6 @@ master는 최초 생성되는 기본 브랜치이다
 그러나 최근에는 master이 아닌 main이 기본브랜치로 설정이 되어있다
 그 이유는 master라는 단어가 master-slave를 떠오르게 하는 단어이기 때문이다
 
+- rebase
+
 ****
